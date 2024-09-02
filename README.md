@@ -7,5 +7,5 @@
 - 💬 Ask us about out hobbies but don't ask about current project 😄
 - 📫 How to reach us: hungerhackers6@gmail.com
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: we are making project using github but our members still learning using github 😂
+- ⚡ Fun fact: we are making project using github but our members still learning using git 😂
 
